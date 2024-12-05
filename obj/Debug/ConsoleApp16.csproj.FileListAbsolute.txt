@@ -1,0 +1,10 @@
+D:\c#\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.AssemblyReference.cache
+D:\c#\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.CoreCompileInputs.cache
+D:\c#\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+D:\c#\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+D:\c#\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+D:\c#\ConsoleApp16\bin\Debug\Newtonsoft.Json.dll
+D:\c#\ConsoleApp16\bin\Debug\Newtonsoft.Json.xml
+D:\c#\ConsoleApp16\obj\Debug\ConsoleA.A53DF6D4.Up2Date
+D:\c#\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+D:\c#\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
